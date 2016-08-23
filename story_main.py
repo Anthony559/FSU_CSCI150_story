@@ -220,6 +220,8 @@ def rand_quote():
               "'Does anyone else think that guy looks like the Estonian Prime Minister?'",
               "'Can anyone really prove that Harry isn't here right now wearing his invisibility cloak?'"
               ]
+			  
+			  print(hello, but a better hello)
 
 
     return rc(quotes)
